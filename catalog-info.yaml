@@ -12,6 +12,6 @@ metadata:
   annotations:
     openedx.org/arch-interest-groups: ""
 spec:
-  owner: group:openedx-unmaintained
+  owner: user:Colin-Fredericks
   type: 'library'
   lifecycle: 'production'
